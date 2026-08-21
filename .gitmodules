@@ -1,0 +1,6 @@
+[submodule "UT-CPS_IOT_HW"]
+	path = UT-CPS_IOT_HW
+	url = https://github.com/F102M8/UT-CPS_IOT_HW.git
+[submodule "UT-CPS_Android_HW"]
+	path = UT-CPS_Android_HW
+	url = https://github.com/F102M8/UT-CPS_Android_HW.git
